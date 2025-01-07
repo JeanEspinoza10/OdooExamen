@@ -1,0 +1,13 @@
+<odoo>
+    <data noupdate="1">
+        <record id="channel_online" model="sales.channel">
+            <field name="name">Online</field>
+        </record>
+        <record id="channel_retail" model="sales.channel">
+            <field name="name">Retail</field>
+        </record>
+        <record id="channel_wholesale" model="sales.channel">
+            <field name="name">Wholesale</field>
+        </record>
+    </data>
+</odoo>
